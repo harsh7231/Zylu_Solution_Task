@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476886166274",
+    "firebase_url": "https://zylu-solution-task-default-rtdb.firebaseio.com",
+    "project_id": "zylu-solution-task",
+    "storage_bucket": "zylu-solution-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476886166274:android:9580b16c84626e02aff01b",
+        "android_client_info": {
+          "package_name": "com.example.zylu_solution_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476886166274-vie70l9cr2csus0v828srft903ru0fhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTDuIM7UWjSm-sj9dHq5owMu-8e63WOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476886166274-vie70l9cr2csus0v828srft903ru0fhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
