@@ -1,16 +1,8 @@
 # zylu_solution_task
 
-A new Flutter project.
+In this app we can add car details to the database. For database I have used Google Firebase. Saved car Details will be showed below save buttons. If you want to clear the saved details you can simply restart the app. But in firebase all the previous saved details will be visible.
 
-## Getting Started
+## APK Link for the Demo app is
 
-This project is a starting point for a Flutter application.
+https://drive.google.com/file/d/1RyPOgYESxq1BRtgGTjp3uhyGhWDfRSru/view?usp=drive_link
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
